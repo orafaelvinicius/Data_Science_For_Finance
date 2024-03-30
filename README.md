@@ -88,5 +88,4 @@ Os dados encontrados aqui são predominantemente da bolsa de valores do Brasil, 
 - [ ] Portifólio de mínima variância
 
 # Estudos de caso
-- [Minha carteira x IBOV]('./Estudos de caso/carteira_x_ibov.ipynb')
-- [ ] 
+- [Minha carteira x IBOV](https://github.com/orafaelvinicius/Data_Science_For_Finance/blob/main/Estudos%20de%20caso/carteira_x_ibov.ipynb)
