@@ -2,10 +2,13 @@
 
 Neste repositório, você encontrará diversos notebooks com informações úteis que utilizei para meus estudos de ciências de dados aplicada ao mercado financeiro. 
 
-Os dados encontrados aqui são predominantemente da bolsa de valores do Brasil, isso não impede de que hajam análises sobre o mercado global.
+Os dados encontrados aqui são predominantemente da bolsa de valores do Brasil, mas isso não impede de que hajam análises sobre o mercado global.
 
 ### Lista de repositórios
 
+#### Macroeconomia
+- [ ] Conceitos básicos
+  
 #### Análise técnica
 - Indicadores
   - [ ] Relative Strength Index ( IRRF )
@@ -83,3 +86,7 @@ Os dados encontrados aqui são predominantemente da bolsa de valores do Brasil, 
     - [ ] Exponentially Weighted Covariance
     - [ ] Ledoit-Wolf
 - [ ] Portifólio de mínima variância
+
+# Estudos de caso
+- [Minha carteira x IBOV]('./Estudos de caso/carteira_x_ibov.ipynb')
+- [ ] 
